@@ -6,7 +6,7 @@
 		"movement": 9,
 		"strength": 100,
 		"rangedStrength": 100,
-		"range": 2,
+		"range": 200,
 		"cost": 5
 	}
 ]
