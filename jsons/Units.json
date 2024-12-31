@@ -3,10 +3,10 @@
 		"name": "death",
 		"unitType": "Ranged",
 		"uniqueTo": "Mongolia",
-		"movement": 9,
+		"movement": 20,
 		"strength": 100,
 		"rangedStrength": 100,
-		"range": 200,
+		"range": 20,
 		"cost": 5
 	}
 ]
